@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Loïc Lion, a junior front-end developer at BeCode! 
 
 - 🔭 I’m currently working on a [DAW project](https://github.com/Loic-lion/step-sequencer)
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Angular.
 - ⚡ I am a big fan of fantasy, science fiction, and Dub music.
   
 ## Tech/framework/biblio:
